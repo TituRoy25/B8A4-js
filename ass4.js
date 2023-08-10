@@ -50,16 +50,11 @@
 //prob-4
 
 // function findAddress(obj) {
-//     if(typeof obj !== "object"){
-//         return "Please enter a valid value";
-//     }
-//     else{
 //         const street = obj.street || '__';
 //         const house = obj.house || '__';
 //         const society = obj.society || '__';
 
 //         return street+','+house+','+society;
-//     }
 // }
 
 // var bj = {street:10}
